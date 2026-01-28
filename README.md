@@ -2,14 +2,6 @@
 
 **Slicetime** is a productivity application designed to help users manage their workflow using a visual interval method. By alternating between "Focus" (Red) and "Break" (Green) modes, the app encourages deep work habits and prevents burnout.
 
-## 📱 Screenshots
-
-<p align="center">
-  <img src="screenshots/home_screen.png" width="200" alt="Home Screen">
-  <img src="screenshots/settings.png" width="200" alt="Settings Screen">
-  <img src="screenshots/complete.png" width="200" alt="Session Complete">
-</p>
-
 ## ✨ Key Features
 
 * **Visual Timer Loop:** Intuitive color-coded interface.
@@ -32,20 +24,6 @@
 * **Monetization:** Google AdMob integration
 * **Version Control:** Git & GitHub
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/Slicetime.git](https://github.com/YourUsername/Slicetime.git)
-    ```
-2.  **Open in Android Studio:**
-    * File -> Open -> Select the cloned folder.
-3.  **Sync Gradle:**
-    * Wait for the project to download dependencies.
-4.  **Run:**
-    * Connect a device or start an emulator and hit the **Run** (▶️) button.
 
 ## 🔮 Future Roadmap (V2.0)
 
@@ -56,6 +34,6 @@ To run this project locally:
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]** as a final project.
+Developed by **Adir**.
 
 ---
